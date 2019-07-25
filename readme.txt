@@ -13,3 +13,6 @@ Git tracks changes.
 
 creating a new branch is quick!
 very quick!
+
+creating a new branch is quick and simple
+
